@@ -2,7 +2,7 @@
 
 Pokecheck - A Pebble Watchface
 
-Pokecheck is a simple Pebble Watchface meant to mimic the menu screen in Pokémon Red, Blue, and Yellow. It provides both time and calendar information, as well as displaying one of 50 different Pokemon every 10 minutes.
+Pokecheck is a simple Pebble Watchface meant to mimic the menu screen in Pokémon Red, Blue, and Yellow. It provides both time and calendar information, as well as displaying one of 16 different Pokemon every 10 minutes.
 
 # Features:
 * Time information (AM/PM only)
