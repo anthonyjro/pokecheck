@@ -1,0 +1,121 @@
+{
+  "name": "PokeCheck",
+  "author": "Anthony J. Rios",
+  "version": "1.0.0",
+  "keywords": ["pebble-app"],
+  "private": true,
+  "dependencies": {},
+  "capabilities": [ "health" ],
+  "pebble": {
+    "displayName": "PokeCheck",
+    "uuid": "53c1b17d-df4e-414a-b913-cb0c229cd209",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "targetPlatforms": [
+      "aplite",
+      "basalt",
+      "chalk"
+    ],
+    "watchapp": {
+      "watchface": true
+    },
+    "messageKeys": [
+      "dummy"
+    ],
+    "resources": {
+      "media": [
+      {
+        "type" : "bitmap",
+        "name" : "VENUSAUR",
+        "file" : "pokemon/3.png"
+        },
+      {
+        "type" : "bitmap",
+        "name" : "CHARIZARD",
+        "file" : "pokemon/6.png"
+        },
+      {
+        "type" : "bitmap",
+        "name" : "BLASTOISE",
+        "file" : "pokemon/9.png"
+        },
+      {
+        "type" : "bitmap",
+        "name" : "PIKACHU",
+        "file" : "pokemon/25.png"
+        },
+        {
+        "type" : "bitmap",
+        "name" : "GENGAR",
+        "file" : "pokemon/94.png"
+        },
+        {
+        "type" : "bitmap",
+        "name" : "GYARADOS",
+        "file" : "pokemon/130.png"
+        },
+        {
+        "type" : "bitmap",
+        "name" : "LAPRAS",
+        "file" : "pokemon/131.png"
+        },
+        {
+        "type" : "bitmap",
+        "name" : "EEVEE",
+        "file" : "pokemon/133.png"
+        },
+        {
+        "type" : "bitmap",
+        "name" : "VAPOREON",
+        "file" : "pokemon/134.png"
+        },
+        {
+        "type" : "bitmap",
+        "name" : "JOLTEON",
+        "file" : "pokemon/135.png"
+        },
+        {
+        "type" : "bitmap",
+        "name" : "FLAREON",
+        "file" : "pokemon/136.png"
+        },
+        {
+        "type" : "bitmap",
+        "name" : "SNORLAX",
+        "file" : "pokemon/143.png"
+        },
+        {
+        "type" : "bitmap",
+        "name" : "ARTICUNO",
+        "file" : "pokemon/144.png"
+        },
+        {
+        "type" : "bitmap",
+        "name" : "ZAPDOS",
+        "file" : "pokemon/145.png"
+        },
+        {
+        "type" : "bitmap",
+        "name" : "MOLTRES",
+        "file" : "pokemon/146.png"
+        },
+        {
+        "type" : "bitmap",
+        "name" : "MENU",
+        "file" : "menu/pkbg.png"
+          },
+          {
+            "type" : "font",
+            "name" : "POKEMON_GB_20",
+            "file" : "fonts/pokemon_gb.ttf",
+            "compatibility": "2.7"
+            },
+          {
+            "type" : "font",
+            "name" : "POKEMON_GB_8",
+            "file" : "fonts/pokemon_gb.ttf",
+            "compatibility": "2.7"
+            }]
+    }
+  }
+}
