@@ -18,3 +18,4 @@ Pokecheck is a simple Pebble Watchface meant to mimic the menu screen in Pokémo
 # Changelog:
 * v.1.0.0 - first build of the app
 
+* Unfortunately, this project has been discontinued indefinitely due to the discontinuation of Pebble products.
